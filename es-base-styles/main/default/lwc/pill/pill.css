@@ -4,7 +4,7 @@
     margin: 0.15rem;
 }
 .selected {
-    background-color: #393937;
+    background-color: #393930;
 }
 .selected .label-color {
     color: var(--lwc-colorTextInverse);
